@@ -1,7 +1,7 @@
 # Stop-Watch
-A scheudle based userform based on real time
+A schedule based userform based on real time
 
-### Press Ctrl-Q to start the macro (Can be rebinded) ###
+### Press Ctrl-Q to start the macro  ###
 ![Screenshot1](https://github.com/jimmyhuang007/Stop-Watch/blob/master/Screenshot1.PNG)
 
 A user form will appear which contains 2 buttons and a textbox
@@ -9,7 +9,6 @@ A user form will appear which contains 2 buttons and a textbox
   * Button 2 'Stop' - Pause the count down, press again to unpause
   * Textbox  - Editable to change the time lapse per cycle 
   
-  
-  
-  
-  ![Screenshot2](https://github.com/jimmyhuang007/Stop-Watch/blob/master/Screenshot2.PNG)
+
+Currently, the program scrolls down a page at 0 reset. This can be edited at the indicated line below. 
+![Screenshot2](https://github.com/jimmyhuang007/Stop-Watch/blob/master/Screenshot2.PNG)
