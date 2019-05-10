@@ -8,3 +8,8 @@ A user form will appear which contains 2 buttons and a textbox
   * Button 1 'Start' 
   * Button 2 'Stop' 
   * Textbox  
+  
+  
+  
+  
+  ![Screenshot2](https://github.com/jimmyhuang007/Stop-Watch/blob/master/Screenshot2.PNG)
