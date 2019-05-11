@@ -1,5 +1,5 @@
 # Stop-Watch
-A schedule based userform based on real time
+A userform timer
 
 ### Press Ctrl-Q to start the macro  ###
 ![Screenshot1](https://github.com/jimmyhuang007/Stop-Watch/blob/master/Screenshot1.PNG)
